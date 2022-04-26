@@ -33,8 +33,97 @@ We show the superiority of our proposed model over conventional methods in terms
 #####  Large dataset - Unseen speakers
 <iframe width="480" height="300" src="https://www.youtube.com/embed/GZJcvP1x8cw" frameborder="0" allowfullscreen></iframe>
 
+<br />
+
+<br />
+
+### Comparison
+
+---
+
+< Explanation >
+
+<br />
+
+#### S1
+
+<br />
+
+<table style="width: auto; table-layout: fixed; word-wrap: normal;" borded="1" border-collapse="collapse">
+
+<tr>
+<td style="column-width: auto; padding-left: 10px; padding-right: 10px"><strong></strong></td>
+<td style="column-width: auto; padding-left: 10px; padding-right: 10px"><strong>Silent Video</strong></td>
+<td style="column-width: auto; padding-left: 10px; padding-right: 10px"><strong>Reference</strong></td>
+<td style="column-width: auto; padding-left: 10px; padding-right: 10px"><strong>XTS</strong></td>
+<td style="column-width: auto; padding-left: 10px; padding-right: 10px"><strong>Lip2Wav</strong></td>
+<td style="column-width: auto; padding-left: 10px; padding-right: 10px"><strong>VCVTS+PWG</strong></td>
+<td style="column-width: auto; padding-left: 10px; padding-right: 10px"><strong>Facetron (Ours)</strong></td>
+</tr>
+
+<!--1-->
+<tr>
+<td style="column-width: auto; padding-left: 10px; padding-right: 10px"><strong>1</strong></td>
+<td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s1_bbas3a_sil.webm' type='video/webm'></video></td>
+<td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s1_bbas3a_gt.webm' type='video/webm'></video></td>
+<td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s1_bbas3a_xts.webm' type='video/webm'></video></td>
+<td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s1_bbas3a_lip2wav.webm' type='video/webm'></video></td>
+<td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s1_bbas3a_prop_pwg.webm' type='video/webm'></video></td>
+<td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s1_bbas3a_prop_pwg.webm' type='video/webm'></video></td>
+</tr>
+<!--2-->
+<tr>
+<td style="column-width: auto; padding-left: 10px; padding-right: 10px"><strong>2</strong></td>
+<td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s1_pgwl1s_sil.webm' type='video/webm'></video></td>
+<td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s1_pgwl1s_gt.webm' type='video/webm'></video></td>
+<td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s1_pgwl1s_xts.webm' type='video/webm'></video></td>
+<td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s1_pgwl1s_lip2wav.webm' type='video/webm'></video></td>
+<td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s1_pgwl1s_prop_pwg.webm' type='video/webm'></video></td>
+<td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s1_pgwl1s_prop_pwg.webm' type='video/webm'></video></td>
+</tr>
+<!--3-->
+<tr>
+<td style="column-width: auto; padding-left: 10px; padding-right: 10px"><strong>3</strong></td>
+<td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s1_swwi8n_sil.webm' type='video/webm'></video></td>
+<td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s1_swwi8n_gt.webm' type='video/webm'></video></td>
+<td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s1_swwi8n_xts.webm' type='video/webm'></video></td>
+<td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s1_swwi8n_lip2wav.webm' type='video/webm'></video></td>
+<td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s1_swwi8n_prop_pwg.webm' type='video/webm'></video></td>
+<td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s1_swwi8n_prop_pwg.webm' type='video/webm'></video></td>
+</tr>
+</table>
 
 
+
+<br />
+
+#### S2
+
+<br />
+
+
+
+
+
+
+
+
+
+<br />
+
+#### S2
+
+<br />
+
+
+
+
+
+<br />
+
+#### S4
+
+<br />
 
 
 
