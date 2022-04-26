@@ -49,7 +49,20 @@ We show the superiority of our proposed model over conventional methods in terms
 
 <br />
 
-<table style="width: auto; table-layout: fixed; word-wrap: normal;" borded="1"> 
+<head>
+	<style>
+		table{
+			border-width : 1px;
+			border-style : solid;
+			border-collapse : collapse;
+		}
+		td{
+			border-width : 1px;
+			border-style : solid;
+		}
+	</style>
+</head>
+<table style="width: auto; table-layout: fixed; word-wrap: normal;" borded="1" border-collapse="collapse">
     <tr>
         <td style="column-width: auto; padding-left: 10px; padding-right: 10px"><strong></strong></td>
         <td style="column-width: auto; padding-left: 10px; padding-right: 10px"><strong>Silent video</strong></td>
@@ -57,9 +70,9 @@ We show the superiority of our proposed model over conventional methods in terms
 		<td style="column-width: auto; padding-left: 10px; padding-right: 10px"><strong>XTS</strong></td>
 		<td style="column-width: auto; padding-left: 10px; padding-right: 10px"><strong>Lip2Wav</strong></td>
 		<td style="column-width: auto; padding-left: 10px; padding-right: 10px"><strong>VCVTS+PWG</strong></td>
-		<td style="column-width: auto; padding-left: 10px; padding-right: 10px"><strong>Silent video</strong></td>
-		<td style="column-width: auto; padding-left: 10px; padding-right: 10px"><strong>Reference</strong></td>
-		<td style="column-width: auto; padding-left: 10px; padding-right: 10px"><strong>Facetron (Ours)</strong></td>
+		<td bgcolor="#EF9A9A" style="column-width: auto; padding-left: 10px; padding-right: 10px"><strong>Silent video</strong></td>
+		<td bgcolor="#EF9A9A" style="column-width: auto; padding-left: 10px; padding-right: 10px"><strong>Reference</strong></td>
+		<td bgcolor="#EF9A9A" style="column-width: auto; padding-left: 10px; padding-right: 10px"><strong>Facetron (Ours)</strong></td>
 	</tr>
     <!--1-->
 <tr>
@@ -121,9 +134,9 @@ We show the superiority of our proposed model over conventional methods in terms
 		<td style="column-width: auto; padding-left: 10px; padding-right: 10px"><strong>XTS</strong></td>
 		<td style="column-width: auto; padding-left: 10px; padding-right: 10px"><strong>Lip2Wav</strong></td>
 		<td style="column-width: auto; padding-left: 10px; padding-right: 10px"><strong>VCVTS+PWG</strong></td>
-		<td style="column-width: auto; padding-left: 10px; padding-right: 10px"><strong>Silent video</strong></td>
-		<td style="column-width: auto; padding-left: 10px; padding-right: 10px"><strong>Reference</strong></td>
-		<td style="column-width: auto; padding-left: 10px; padding-right: 10px"><strong>Facetron (Ours)</strong></td>
+		<td bgcolor="#EF9A9A" style="column-width: auto; padding-left: 10px; padding-right: 10px"><strong>Silent video</strong></td>
+		<td bgcolor="#EF9A9A" style="column-width: auto; padding-left: 10px; padding-right: 10px"><strong>Reference</strong></td>
+		<td bgcolor="#EF9A9A" style="column-width: auto; padding-left: 10px; padding-right: 10px"><strong>Facetron (Ours)</strong></td>
 	</tr>
     <!--1-->
 <tr>
@@ -183,9 +196,9 @@ We show the superiority of our proposed model over conventional methods in terms
 		<td style="column-width: auto; padding-left: 10px; padding-right: 10px"><strong>XTS</strong></td>
 		<td style="column-width: auto; padding-left: 10px; padding-right: 10px"><strong>Lip2Wav</strong></td>
 		<td style="column-width: auto; padding-left: 10px; padding-right: 10px"><strong>VCVTS+PWG</strong></td>
-		<td style="column-width: auto; padding-left: 10px; padding-right: 10px"><strong>Silent video</strong></td>
-		<td style="column-width: auto; padding-left: 10px; padding-right: 10px"><strong>Reference</strong></td>
-		<td style="column-width: auto; padding-left: 10px; padding-right: 10px"><strong>Facetron (Ours)</strong></td>
+		<td bgcolor="#EF9A9A" style="column-width: auto; padding-left: 10px; padding-right: 10px"><strong>Silent video</strong></td>
+		<td bgcolor="#EF9A9A" style="column-width: auto; padding-left: 10px; padding-right: 10px"><strong>Reference</strong></td>
+		<td bgcolor="#EF9A9A" style="column-width: auto; padding-left: 10px; padding-right: 10px"><strong>Facetron (Ours)</strong></td>
 	</tr>
     <!--1-->
 <tr>
@@ -251,9 +264,9 @@ We show the superiority of our proposed model over conventional methods in terms
 		<td style="column-width: auto; padding-left: 10px; padding-right: 10px"><strong>XTS</strong></td>
 		<td style="column-width: auto; padding-left: 10px; padding-right: 10px"><strong>Lip2Wav</strong></td>
 		<td style="column-width: auto; padding-left: 10px; padding-right: 10px"><strong>VCVTS+PWG</strong></td>
-		<td style="column-width: auto; padding-left: 10px; padding-right: 10px"><strong>Silent video</strong></td>
-		<td style="column-width: auto; padding-left: 10px; padding-right: 10px"><strong>Reference</strong></td>
-		<td style="column-width: auto; padding-left: 10px; padding-right: 10px"><strong>Facetron (Ours)</strong></td>
+		<td bgcolor="#EF9A9A" style="column-width: auto; padding-left: 10px; padding-right: 10px"><strong>Silent video</strong></td>
+		<td bgcolor="#EF9A9A" style="column-width: auto; padding-left: 10px; padding-right: 10px"><strong>Reference</strong></td>
+		<td bgcolor="#EF9A9A" style="column-width: auto; padding-left: 10px; padding-right: 10px"><strong>Facetron (Ours)</strong></td>
 	</tr>
     <!--1-->
 <tr>
