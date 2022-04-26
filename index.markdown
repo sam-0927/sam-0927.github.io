@@ -49,7 +49,7 @@ We show the superiority of our proposed model over conventional methods in terms
 
 <br />
 
-<table style="width: auto; table-layout: fixed; word-wrap: normal;" borded="1" border-collapse="collapse">
+<table style="width: auto; table-layout: fixed; word-wrap: normal;" borded="1"> 
     <tr>
         <td style="column-width: auto; padding-left: 10px; padding-right: 10px"><strong></strong></td>
         <td style="column-width: auto; padding-left: 10px; padding-right: 10px"><strong>Silent video</strong></td>
