@@ -50,61 +50,57 @@ We show the superiority of our proposed model over conventional methods in terms
 <br />
 
 <table style="width: auto; table-layout: fixed; word-wrap: normal;" borded="1" border-collapse="collapse">
-
+    <tr>
+        <td style="column-width: auto; padding-left: 10px; padding-right: 10px"><strong></strong></td>
+        <td style="column-width: auto; padding-left: 10px; padding-right: 10px"><strong>Silent video</strong></td>
+		<td style="column-width: auto; padding-left: 10px; padding-right: 10px"><strong>Reference</strong></td>
+		<td style="column-width: auto; padding-left: 10px; padding-right: 10px"><strong>XTS</strong></td>
+		<td style="column-width: auto; padding-left: 10px; padding-right: 10px"><strong>Lip2Wav</strong></td>
+		<td style="column-width: auto; padding-left: 10px; padding-right: 10px"><strong>VCVTS+PWG</strong></td>
+		<td style="column-width: auto; padding-left: 10px; padding-right: 10px"><strong>Silent video</strong></td>
+		<td style="column-width: auto; padding-left: 10px; padding-right: 10px"><strong>Reference</strong></td>
+		<td style="column-width: auto; padding-left: 10px; padding-right: 10px"><strong>Facetron (Ours)</strong></td>
+	</tr>
+    <!--1-->
 <tr>
-<td style="column-width: auto; padding-left: 10px; padding-right: 10px"><strong></strong></td>
-<td style="column-width: auto; padding-left: 10px; padding-right: 10px"><strong>Silent Video</strong></td>
-<td style="column-width: auto; padding-left: 10px; padding-right: 10px"><strong>Reference</strong></td>
-<td style="column-width: auto; padding-left: 10px; padding-right: 10px"><strong>XTS</strong></td>
-<td style="column-width: auto; padding-left: 10px; padding-right: 10px"><strong>Lip2Wav</strong></td>
-<td style="column-width: auto; padding-left: 10px; padding-right: 10px"><strong>VCVTS+PWG</strong></td>
-<td style="column-width: auto; padding-left: 10px; padding-right: 10px"><strong>Facetron (Ours)</strong></td>
-</tr>
-
-<!--1-->
-<tr>
-<td style="column-width: auto; padding-left: 10px; padding-right: 10px"><strong>1</strong></td>
-<td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s1_bbas3a_sil.webm' type='video/webm'></video></td>
-<td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s1_bbas3a_gt.webm' type='video/webm'></video></td>
-<td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s1_bbas3a_xts.webm' type='video/webm'></video></td>
-<td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s1_bbas3a_lip2wav.webm' type='video/webm'></video></td>
-<td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s1_bbas3a_prop_pwg.webm' type='video/webm'></video></td>
-<td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s1_bbas3a_prop_pwg.webm' type='video/webm'></video></td>
+	<td style="column-width: auto; padding-left: 10px; padding-right: 10px"><strong>1</strong></td>
+	<td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s1_bbas3a_sil.webm' type='video/webm'></video></td>
+	<td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s1_bbas3a_gt.webm' type='video/webm'></video></td>
+	<td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s1_bbas3a_xts.webm' type='video/webm'></video></td>
+	<td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s1_bbas3a_lip2wav.webm' type='video/webm'></video></td>
+	<td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s1_bbas3a_prop_pwg.webm' type='video/webm'></video></td>
+	<td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s1_bbas3a_prop_pwg.webm' type='video/webm'></video></td>
+	<td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s1_bbas3a_prop_pwg.webm' type='video/webm'></video></td>
+	<td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s1_bbas3a_prop_pwg.webm' type='video/webm'></video></td>
 </tr>
 <!--2-->
 <tr>
-<td style="column-width: auto; padding-left: 10px; padding-right: 10px"><strong>2</strong></td>
-<td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s1_pgwl1s_sil.webm' type='video/webm'></video></td>
-<td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s1_pgwl1s_gt.webm' type='video/webm'></video></td>
-<td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s1_pgwl1s_xts.webm' type='video/webm'></video></td>
-<td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s1_pgwl1s_lip2wav.webm' type='video/webm'></video></td>
-<td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s1_pgwl1s_prop_pwg.webm' type='video/webm'></video></td>
-<td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s1_pgwl1s_prop_pwg.webm' type='video/webm'></video></td>
+	<td style="column-width: auto; padding-left: 10px; padding-right: 10px"><strong>2</strong></td>
+	<td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s1_pgwl1s_sil.webm' type='video/webm'></video></td>
+	<td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s1_pgwl1s_gt.webm' type='video/webm'></video></td>
+	<td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s1_pgwl1s_xts.webm' type='video/webm'></video></td>
+	<td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s1_pgwl1s_lip2wav.webm' type='video/webm'></video></td>
+    <td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s1_pgwl1s_prop_pwg.webm' type='video/webm'></video></td>
+    <td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s1_pgwl1s_prop_pwg.webm' type='video/webm'></video></td>
+    <td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s1_bbas3a_prop_pwg.webm' type='video/webm'></video></td>
+	<td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s1_bbas3a_prop_pwg.webm' type='video/webm'></video></td>
 </tr>
 <!--3-->
 <tr>
-<td style="column-width: auto; padding-left: 10px; padding-right: 10px"><strong>3</strong></td>
-<td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s1_swwi8n_sil.webm' type='video/webm'></video></td>
-<td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s1_swwi8n_gt.webm' type='video/webm'></video></td>
-<td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s1_swwi8n_xts.webm' type='video/webm'></video></td>
-<td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s1_swwi8n_lip2wav.webm' type='video/webm'></video></td>
-<td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s1_swwi8n_prop_pwg.webm' type='video/webm'></video></td>
-<td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s1_swwi8n_prop_pwg.webm' type='video/webm'></video></td>
+	<td style="column-width: auto; padding-left: 10px; padding-right: 10px"><strong>3</strong></td>
+	<td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s1_swwi8n_sil.webm' type='video/webm'></video></td>
+	<td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s1_swwi8n_gt.webm' type='video/webm'></video></td>
+	<td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s1_swwi8n_xts.webm' type='video/webm'></video></td>
+	<td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s1_swwi8n_lip2wav.webm' type='video/webm'></video></td>
+	<td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s1_swwi8n_prop_pwg.webm' type='video/webm'></video></td>
+	<td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s1_swwi8n_prop_pwg.webm' type='video/webm'></video></td>
+    <td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s1_bbas3a_prop_pwg.webm' type='video/webm'></video></td>
+	<td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s1_bbas3a_prop_pwg.webm' type='video/webm'></video></td>
 </tr>
 </table>
 
 
 
-<br />
-
-#### S2
-
-<br />
-
-
-
-
-
 
 
 
@@ -114,6 +110,58 @@ We show the superiority of our proposed model over conventional methods in terms
 #### S2
 
 <br />
+
+
+
+<table style="width: auto; table-layout: fixed; word-wrap: normal;" borded="1" border-collapse="collapse">
+    <tr>
+        <td style="column-width: auto; padding-left: 10px; padding-right: 10px"><strong></strong></td>
+        <td style="column-width: auto; padding-left: 10px; padding-right: 10px"><strong>Silent video</strong></td>
+		<td style="column-width: auto; padding-left: 10px; padding-right: 10px"><strong>Reference</strong></td>
+		<td style="column-width: auto; padding-left: 10px; padding-right: 10px"><strong>XTS</strong></td>
+		<td style="column-width: auto; padding-left: 10px; padding-right: 10px"><strong>Lip2Wav</strong></td>
+		<td style="column-width: auto; padding-left: 10px; padding-right: 10px"><strong>VCVTS+PWG</strong></td>
+		<td style="column-width: auto; padding-left: 10px; padding-right: 10px"><strong>Silent video</strong></td>
+		<td style="column-width: auto; padding-left: 10px; padding-right: 10px"><strong>Reference</strong></td>
+		<td style="column-width: auto; padding-left: 10px; padding-right: 10px"><strong>Facetron (Ours)</strong></td>
+	</tr>
+    <!--1-->
+<tr>
+	<td style="column-width: auto; padding-left: 10px; padding-right: 10px"><strong>1</strong></td>
+	<td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s2_bbil4a_sil.webm' type='video/webm'></video></td>
+	<td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s2_bbil4a_gt.webm' type='video/webm'></video></td>
+	<td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s2_bbil4a_xts.webm' type='video/webm'></video></td>
+	<td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s2_bbil4a_lip2wav.webm' type='video/webm'></video></td>
+	<td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s2_bbil4a_prop_pwg.webm' type='video/webm'></video></td>
+	<td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s2_bbil4a_prop_pwg.webm' type='video/webm'></video></td>
+	<td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s2_bbil4a_prop_pwg.webm' type='video/webm'></video></td>
+	<td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s2_bbil4a_prop_pwg.webm' type='video/webm'></video></td>
+</tr>
+<!--2-->
+<tr>
+	<td style="column-width: auto; padding-left: 10px; padding-right: 10px"><strong>2</strong></td>
+	<td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s2_lgwaza_sil.webm' type='video/webm'></video></td>
+	<td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s2_lgwaza_gt.webm' type='video/webm'></video></td>
+	<td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s2_lgwaza_xts.webm' type='video/webm'></video></td>
+	<td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s2_lgwaza_lip2wav.webm' type='video/webm'></video></td>
+    <td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s2_lgwaza_prop_pwg.webm' type='video/webm'></video></td>
+    <td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s2_lgwaza_prop_pwg.webm' type='video/webm'></video></td>
+    <td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s2_lgwaza_prop_pwg.webm' type='video/webm'></video></td>
+	<td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s2_lgwaza_prop_pwg.webm' type='video/webm'></video></td>
+</tr>
+<!--3-->
+<tr>
+	<td style="column-width: auto; padding-left: 10px; padding-right: 10px"><strong>3</strong></td>
+	<td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s2_pwaj5n_sil.webm' type='video/webm'></video></td>
+	<td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s2_pwaj5n_gt.webm' type='video/webm'></video></td>
+	<td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s2_pwaj5n_xts.webm' type='video/webm'></video></td>
+	<td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s2_pwaj5n_lip2wav.webm' type='video/webm'></video></td>
+	<td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s2_pwaj5n_prop_pwg.webm' type='video/webm'></video></td>
+	<td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s2_pwaj5n_prop_pwg.webm' type='video/webm'></video></td>
+    <td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s2_pwaj5n_prop_pwg.webm' type='video/webm'></video></td>
+	<td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s2_pwaj5n_prop_pwg.webm' type='video/webm'></video></td>
+</tr>
+</table>
 
 
 
@@ -124,6 +172,128 @@ We show the superiority of our proposed model over conventional methods in terms
 #### S4
 
 <br />
+
+
+
+<table style="width: auto; table-layout: fixed; word-wrap: normal;" borded="1" border-collapse="collapse">
+    <tr>
+        <td style="column-width: auto; padding-left: 10px; padding-right: 10px"><strong></strong></td>
+        <td style="column-width: auto; padding-left: 10px; padding-right: 10px"><strong>Silent video</strong></td>
+		<td style="column-width: auto; padding-left: 10px; padding-right: 10px"><strong>Reference</strong></td>
+		<td style="column-width: auto; padding-left: 10px; padding-right: 10px"><strong>XTS</strong></td>
+		<td style="column-width: auto; padding-left: 10px; padding-right: 10px"><strong>Lip2Wav</strong></td>
+		<td style="column-width: auto; padding-left: 10px; padding-right: 10px"><strong>VCVTS+PWG</strong></td>
+		<td style="column-width: auto; padding-left: 10px; padding-right: 10px"><strong>Silent video</strong></td>
+		<td style="column-width: auto; padding-left: 10px; padding-right: 10px"><strong>Reference</strong></td>
+		<td style="column-width: auto; padding-left: 10px; padding-right: 10px"><strong>Facetron (Ours)</strong></td>
+	</tr>
+    <!--1-->
+<tr>
+	<td style="column-width: auto; padding-left: 10px; padding-right: 10px"><strong>1</strong></td>
+	<td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s4_bbir6a_sil.webm' type='video/webm'></video></td>
+	<td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s4_bbir6a_gt.webm' type='video/webm'></video></td>
+	<td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s4_bbir6a_xts.webm' type='video/webm'></video></td>
+	<td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s4_bbir6a_lip2wav.webm' type='video/webm'></video></td>
+	<td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s4_bbir6a_prop_pwg.webm' type='video/webm'></video></td>
+	<td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s4_bbir6a_prop_pwg.webm' type='video/webm'></video></td>
+	<td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s4_bbir6a_prop_pwg.webm' type='video/webm'></video></td>
+	<td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s4_bbir6a_prop_pwg.webm' type='video/webm'></video></td>
+</tr>
+<!--2-->
+<tr>
+	<td style="column-width: auto; padding-left: 10px; padding-right: 10px"><strong>2</strong></td>
+	<td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s4_pgad6s_sil.webm' type='video/webm'></video></td>
+	<td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s4_pgad6s_gt.webm' type='video/webm'></video></td>
+	<td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s4_pgad6s_xts.webm' type='video/webm'></video></td>
+	<td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s4_pgad6s_lip2wav.webm' type='video/webm'></video></td>
+    <td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s4_pgad6s_prop_pwg.webm' type='video/webm'></video></td>
+    <td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s4_pgad6s_prop_pwg.webm' type='video/webm'></video></td>
+    <td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s4_pgad6s_prop_pwg.webm' type='video/webm'></video></td>
+	<td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s4_pgad6s_prop_pwg.webm' type='video/webm'></video></td>
+</tr>
+<!--3-->
+<tr>
+	<td style="column-width: auto; padding-left: 10px; padding-right: 10px"><strong>3</strong></td>
+	<td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s4_swbb9p_sil.webm' type='video/webm'></video></td>
+	<td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s4_swbb9p_gt.webm' type='video/webm'></video></td>
+	<td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s4_swbb9p_xts.webm' type='video/webm'></video></td>
+	<td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s4_swbb9p_lip2wav.webm' type='video/webm'></video></td>
+	<td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s4_swbb9p_prop_pwg.webm' type='video/webm'></video></td>
+	<td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s4_swbb9p_prop_pwg.webm' type='video/webm'></video></td>
+    <td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s4_swbb9p_prop_pwg.webm' type='video/webm'></video></td>
+	<td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s4_swbb9p_prop_pwg.webm' type='video/webm'></video></td>
+</tr>
+</table>
+
+
+
+
+
+
+
+
+
+<br />
+
+#### S29
+
+<br />
+
+
+
+
+
+<table style="width: auto; table-layout: fixed; word-wrap: normal;" borded="1" border-collapse="collapse">
+    <tr>
+        <td style="column-width: auto; padding-left: 10px; padding-right: 10px"><strong></strong></td>
+        <td style="column-width: auto; padding-left: 10px; padding-right: 10px"><strong>Silent video</strong></td>
+		<td style="column-width: auto; padding-left: 10px; padding-right: 10px"><strong>Reference</strong></td>
+		<td style="column-width: auto; padding-left: 10px; padding-right: 10px"><strong>XTS</strong></td>
+		<td style="column-width: auto; padding-left: 10px; padding-right: 10px"><strong>Lip2Wav</strong></td>
+		<td style="column-width: auto; padding-left: 10px; padding-right: 10px"><strong>VCVTS+PWG</strong></td>
+		<td style="column-width: auto; padding-left: 10px; padding-right: 10px"><strong>Silent video</strong></td>
+		<td style="column-width: auto; padding-left: 10px; padding-right: 10px"><strong>Reference</strong></td>
+		<td style="column-width: auto; padding-left: 10px; padding-right: 10px"><strong>Facetron (Ours)</strong></td>
+	</tr>
+    <!--1-->
+<tr>
+	<td style="column-width: auto; padding-left: 10px; padding-right: 10px"><strong>1</strong></td>
+	<td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s29_bgak6n_sil.webm' type='video/webm'></video></td>
+	<td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s29_bgak6n_gt.webm' type='video/webm'></video></td>
+	<td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s29_bgak6n_xts.webm' type='video/webm'></video></td>
+	<td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s29_bgak6n_lip2wav.webm' type='video/webm'></video></td>
+	<td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s29_bgak6n_prop_pwg.webm' type='video/webm'></video></td>
+	<td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s29_bgak6n_prop_pwg.webm' type='video/webm'></video></td>
+	<td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s29_bgak6n_prop_pwg.webm' type='video/webm'></video></td>
+	<td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s29_bgak6n_prop_pwg.webm' type='video/webm'></video></td>
+</tr>
+<!--2-->
+<tr>
+	<td style="column-width: auto; padding-left: 10px; padding-right: 10px"><strong>2</strong></td>
+	<td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s29_lrbv1s_sil.webm' type='video/webm'></video></td>
+	<td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s29_lrbv1s_gt.webm' type='video/webm'></video></td>
+	<td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s29_lrbv1s_xts.webm' type='video/webm'></video></td>
+	<td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s29_lrbv1s_lip2wav.webm' type='video/webm'></video></td>
+    <td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s29_lrbv1s_prop_pwg.webm' type='video/webm'></video></td>
+    <td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s29_lrbv1s_prop_pwg.webm' type='video/webm'></video></td>
+    <td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s29_lrbv1s_prop_pwg.webm' type='video/webm'></video></td>
+	<td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s29_lrbv1s_prop_pwg.webm' type='video/webm'></video></td>
+</tr>
+<!--3-->
+<tr>
+	<td style="column-width: auto; padding-left: 10px; padding-right: 10px"><strong>3</strong></td>
+	<td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s29_pgin7a_sil.webm' type='video/webm'></video></td>
+	<td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s29_pgin7a_gt.webm' type='video/webm'></video></td>
+	<td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s29_pgin7a_xts.webm' type='video/webm'></video></td>
+	<td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s29_pgin7a_lip2wav.webm' type='video/webm'></video></td>
+	<td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s29_pgin7a_prop_pwg.webm' type='video/webm'></video></td>
+	<td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s29_pgin7a_prop_pwg.webm' type='video/webm'></video></td>
+    <td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s29_pgin7a_prop_pwg.webm' type='video/webm'></video></td>
+	<td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s29_pgin7a_prop_pwg.webm' type='video/webm'></video></td>
+</tr>
+</table>
+
+
 
 
 
