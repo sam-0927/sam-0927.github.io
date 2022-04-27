@@ -94,9 +94,9 @@ We show the superiority of our proposed model over conventional methods in terms
 	<td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s1_pgwl1s_xts.webm' type='video/webm'></video></td>
 	<td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s1_pgwl1s_lip2wav.webm' type='video/webm'></video></td>
     <td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s1_pgwl1s_prop_pwg.webm' type='video/webm'></video></td>
-    <td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s1_pgwl1s_prop_pwg.webm' type='video/webm'></video></td>
-    <td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s1_bbas3a_prop_pwg.webm' type='video/webm'></video></td>
-	<td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s1_bbas3a_prop_pwg.webm' type='video/webm'></video></td>
+    <td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s1_bwwu1s_sil.webm' type='video/webm'></video></td>
+    <td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s1_bwwu1s_ref.webm' type='video/webm'></video></td>
+	<td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s1_bwwu1s_facetron.webm' type='video/webm'></video></td>
 </tr>
 <!--3-->
 <tr>
