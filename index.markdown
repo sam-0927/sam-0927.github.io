@@ -82,9 +82,9 @@ We show the superiority of our proposed model over conventional methods in terms
 	<td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s1_bbas3a_xts.webm' type='video/webm'></video></td>
 	<td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s1_bbas3a_lip2wav.webm' type='video/webm'></video></td>
 	<td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s1_bbas3a_prop_pwg.webm' type='video/webm'></video></td>
-	<td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s1_bbas3a_prop_pwg.webm' type='video/webm'></video></td>
-	<td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s1_bbas3a_prop_pwg.webm' type='video/webm'></video></td>
-	<td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s1_bbas3a_prop_pwg.webm' type='video/webm'></video></td>
+	<td><video controls style="width: 150px;"><source src='./assets/demo_ours/s1_lwbf5a_sil.webm' type='video/webm'></video></td>
+	<td><video controls style="width: 150px;"><source src='./assets/demo_ours/s1_lwbf5a_ref.webm' type='video/webm'></video></td>
+	<td><video controls style="width: 150px;"><source src='./assets/demo_ours/s1_lwbf5a_facetron.webm' type='video/webm'></video></td>
 </tr>
 <!--2-->
 <tr>
@@ -94,9 +94,9 @@ We show the superiority of our proposed model over conventional methods in terms
 	<td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s1_pgwl1s_xts.webm' type='video/webm'></video></td>
 	<td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s1_pgwl1s_lip2wav.webm' type='video/webm'></video></td>
     <td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s1_pgwl1s_prop_pwg.webm' type='video/webm'></video></td>
-    <td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s1_bwwu1s_sil.webm' type='video/webm'></video></td>
-    <td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s1_bwwu1s_ref.webm' type='video/webm'></video></td>
-	<td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s1_bwwu1s_facetron.webm' type='video/webm'></video></td>
+    <td><video controls style="width: 150px;"><source src='./assets/demo_ours/s1_bwwu1s_sil.webm' type='video/webm'></video></td>
+    <td><video controls style="width: 150px;"><source src='./assets/demo_ours/s1_bwwu1s_ref.webm' type='video/webm'></video></td>
+	<td><video controls style="width: 150px;"><source src='./assets/demo_ours/s1_bwwu1s_facetron.webm' type='video/webm'></video></td>
 </tr>
 <!--3-->
 <tr>
@@ -146,9 +146,9 @@ We show the superiority of our proposed model over conventional methods in terms
 	<td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s2_bbil4a_xts.webm' type='video/webm'></video></td>
 	<td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s2_bbil4a_lip2wav.webm' type='video/webm'></video></td>
 	<td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s2_bbil4a_prop_pwg.webm' type='video/webm'></video></td>
-	<td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s2_bbil4a_prop_pwg.webm' type='video/webm'></video></td>
-	<td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s2_bbil4a_prop_pwg.webm' type='video/webm'></video></td>
-	<td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s2_bbil4a_prop_pwg.webm' type='video/webm'></video></td>
+	<td><video controls style="width: 150px;"><source src='./assets/demo_ours/s2_bbbs6a_sil.webm' type='video/webm'></video></td>
+	<td><video controls style="width: 150px;"><source src='./assets/demo_ours/s2_bbbs6a_ref.webm' type='video/webm'></video></td>
+	<td><video controls style="width: 150px;"><source src='./assets/demo_ours/s2_bbbs6a_facetron.webm' type='video/webm'></video></td>
 </tr>
 <!--2-->
 <tr>
@@ -158,9 +158,9 @@ We show the superiority of our proposed model over conventional methods in terms
 	<td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s2_lgwaza_xts.webm' type='video/webm'></video></td>
 	<td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s2_lgwaza_lip2wav.webm' type='video/webm'></video></td>
     <td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s2_lgwaza_prop_pwg.webm' type='video/webm'></video></td>
-    <td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s2_lgwaza_prop_pwg.webm' type='video/webm'></video></td>
-    <td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s2_lgwaza_prop_pwg.webm' type='video/webm'></video></td>
-	<td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s2_lgwaza_prop_pwg.webm' type='video/webm'></video></td>
+    <td><video controls style="width: 150px;"><source src='./assets/demo_ours/s2_pgaq8a_sil.webm' type='video/webm'></video></td>
+    <td><video controls style="width: 150px;"><source src='./assets/demo_ours/s2_pgaq8a_ref.webm' type='video/webm'></video></td>
+	<td><video controls style="width: 150px;"><source src='./assets/demo_ours/s2_pgaq8a_facetron.webm' type='video/webm'></video></td>
 </tr>
 <!--3-->
 <tr>
@@ -170,9 +170,9 @@ We show the superiority of our proposed model over conventional methods in terms
 	<td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s2_pwaj5n_xts.webm' type='video/webm'></video></td>
 	<td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s2_pwaj5n_lip2wav.webm' type='video/webm'></video></td>
 	<td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s2_pwaj5n_prop_pwg.webm' type='video/webm'></video></td>
-	<td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s2_pwaj5n_prop_pwg.webm' type='video/webm'></video></td>
-    <td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s2_pwaj5n_prop_pwg.webm' type='video/webm'></video></td>
-	<td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s2_pwaj5n_prop_pwg.webm' type='video/webm'></video></td>
+	<td><video controls style="width: 150px;"><source src='./assets/demo_ours/s2_pwij1n_sil.webm' type='video/webm'></video></td>
+    <td><video controls style="width: 150px;"><source src='./assets/demo_ours/s2_pwij1n_ref.webm' type='video/webm'></video></td>
+	<td><video controls style="width: 150px;"><source src='./assets/demo_ours/s2_pwij1n_facetron.webm' type='video/webm'></video></td>
 </tr>
 </table>
 
@@ -208,9 +208,9 @@ We show the superiority of our proposed model over conventional methods in terms
 	<td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s4_bbir6a_xts.webm' type='video/webm'></video></td>
 	<td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s4_bbir6a_lip2wav.webm' type='video/webm'></video></td>
 	<td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s4_bbir6a_prop_pwg.webm' type='video/webm'></video></td>
-	<td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s4_bbir6a_prop_pwg.webm' type='video/webm'></video></td>
-	<td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s4_bbir6a_prop_pwg.webm' type='video/webm'></video></td>
-	<td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s4_bbir6a_prop_pwg.webm' type='video/webm'></video></td>
+	<td><video controls style="width: 150px;"><source src='./assets/demo_ours/s4_bbie5n_sil.webm' type='video/webm'></video></td>
+	<td><video controls style="width: 150px;"><source src='./assets/demo_ours/s4_bbie5n_ref.webm' type='video/webm'></video></td>
+	<td><video controls style="width: 150px;"><source src='./assets/demo_ours/s4_bbie5n_facetron.webm' type='video/webm'></video></td>
 </tr>
 <!--2-->
 <tr>
@@ -220,9 +220,9 @@ We show the superiority of our proposed model over conventional methods in terms
 	<td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s4_pgad6s_xts.webm' type='video/webm'></video></td>
 	<td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s4_pgad6s_lip2wav.webm' type='video/webm'></video></td>
     <td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s4_pgad6s_prop_pwg.webm' type='video/webm'></video></td>
-    <td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s4_pgad6s_prop_pwg.webm' type='video/webm'></video></td>
-    <td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s4_pgad6s_prop_pwg.webm' type='video/webm'></video></td>
-	<td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s4_pgad6s_prop_pwg.webm' type='video/webm'></video></td>
+    <td><video controls style="width: 150px;"><source src='./assets/demo_ours/s4_prwd2s_sil.webm' type='video/webm'></video></td>
+    <td><video controls style="width: 150px;"><source src='./assets/demo_ours/s4_prwd2s_ref.webm' type='video/webm'></video></td>
+	<td><video controls style="width: 150px;"><source src='./assets/demo_ours/s4_prwd2s_facetron.webm' type='video/webm'></video></td>
 </tr>
 <!--3-->
 <tr>
@@ -232,9 +232,9 @@ We show the superiority of our proposed model over conventional methods in terms
 	<td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s4_swbb9p_xts.webm' type='video/webm'></video></td>
 	<td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s4_swbb9p_lip2wav.webm' type='video/webm'></video></td>
 	<td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s4_swbb9p_prop_pwg.webm' type='video/webm'></video></td>
-	<td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s4_swbb9p_prop_pwg.webm' type='video/webm'></video></td>
-    <td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s4_swbb9p_prop_pwg.webm' type='video/webm'></video></td>
-	<td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s4_swbb9p_prop_pwg.webm' type='video/webm'></video></td>
+	<td><video controls style="width: 150px;"><source src='./assets/demo_ours/s4_lbwr1p_sil.webm' type='video/webm'></video></td>
+    <td><video controls style="width: 150px;"><source src='./assets/demo_ours/s4_lbwr1p_ref.webm' type='video/webm'></video></td>
+	<td><video controls style="width: 150px;"><source src='./assets/demo_ours/s4_lbwr1p_facetron.webm' type='video/webm'></video></td>
 </tr>
 </table>
 
@@ -276,9 +276,9 @@ We show the superiority of our proposed model over conventional methods in terms
 	<td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s29_bgak6n_xts.webm' type='video/webm'></video></td>
 	<td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s29_bgak6n_lip2wav.webm' type='video/webm'></video></td>
 	<td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s29_bgak6n_prop_pwg.webm' type='video/webm'></video></td>
-	<td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s29_bgak6n_prop_pwg.webm' type='video/webm'></video></td>
-	<td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s29_bgak6n_prop_pwg.webm' type='video/webm'></video></td>
-	<td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s29_bgak6n_prop_pwg.webm' type='video/webm'></video></td>
+	<td><video controls style="width: 150px;"><source src='./assets/demo_ours/s29_brax4p_sil.webm' type='video/webm'></video></td>
+	<td><video controls style="width: 150px;"><source src='./assets/demo_ours/s29_brax4p_ref.webm' type='video/webm'></video></td>
+	<td><video controls style="width: 150px;"><source src='./assets/demo_ours/s29_brax4p_facetron.webm' type='video/webm'></video></td>
 </tr>
 <!--2-->
 <tr>
@@ -288,9 +288,9 @@ We show the superiority of our proposed model over conventional methods in terms
 	<td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s29_lrbv1s_xts.webm' type='video/webm'></video></td>
 	<td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s29_lrbv1s_lip2wav.webm' type='video/webm'></video></td>
     <td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s29_lrbv1s_prop_pwg.webm' type='video/webm'></video></td>
-    <td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s29_lrbv1s_prop_pwg.webm' type='video/webm'></video></td>
-    <td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s29_lrbv1s_prop_pwg.webm' type='video/webm'></video></td>
-	<td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s29_lrbv1s_prop_pwg.webm' type='video/webm'></video></td>
+    <td><video controls style="width: 150px;"><source src='./assets/demo_ours/s29_bwby3s_sil.webm' type='video/webm'></video></td>
+    <td><video controls style="width: 150px;"><source src='./assets/demo_ours/s29_bwby3s_ref.webm' type='video/webm'></video></td>
+	<td><video controls style="width: 150px;"><source src='./assets/demo_ours/s29_bwby3s_facetron.webm' type='video/webm'></video></td>
 </tr>
 <!--3-->
 <tr>
@@ -300,9 +300,9 @@ We show the superiority of our proposed model over conventional methods in terms
 	<td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s29_pgin7a_xts.webm' type='video/webm'></video></td>
 	<td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s29_pgin7a_lip2wav.webm' type='video/webm'></video></td>
 	<td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s29_pgin7a_prop_pwg.webm' type='video/webm'></video></td>
-	<td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s29_pgin7a_prop_pwg.webm' type='video/webm'></video></td>
-    <td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s29_pgin7a_prop_pwg.webm' type='video/webm'></video></td>
-	<td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s29_pgin7a_prop_pwg.webm' type='video/webm'></video></td>
+	<td><video controls style="width: 150px;"><source src='./assets/demo_ours/s29_sbwe9s_sil.webm' type='video/webm'></video></td>
+    <td><video controls style="width: 150px;"><source src='./assets/demo_ours/s29_sbwe9s_ref.webm' type='video/webm'></video></td>
+	<td><video controls style="width: 150px;"><source src='./assets/demo_ours/s29_sbwe9s_facetron.webm' type='video/webm'></video></td>
 </tr>
 </table>
 
