@@ -106,9 +106,9 @@ We show the superiority of our proposed model over conventional methods in terms
 	<td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s1_swwi8n_xts.webm' type='video/webm'></video></td>
 	<td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s1_swwi8n_lip2wav.webm' type='video/webm'></video></td>
 	<td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s1_swwi8n_prop_pwg.webm' type='video/webm'></video></td>
-	<td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s1_bgbu2n_sil.mp4' type='video/mp4'></video></td>
-    <td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s1_bgbu2n_ref.mp4' type='video/mp4'></video></td>
-	<td><video controls style="width: 150px;"><source src='./assets/demo_vcvts/s1_bgbu2n_facetron.mp4' type='video/mp4'></video></td>
+	<td><video controls style="width: 150px;"><source src='./assets/demo_ours/s1_bgbu2n_sil.mp4' type='video/mp4'></video></td>
+    <td><video controls style="width: 150px;"><source src='./assets/demo_ours/s1_bgbu2n_ref.mp4' type='video/mp4'></video></td>
+	<td><video controls style="width: 150px;"><source src='./assets/demo_ours/s1_bgbu2n_facetron.mp4' type='video/mp4'></video></td>
 </tr>
 </table>
 
