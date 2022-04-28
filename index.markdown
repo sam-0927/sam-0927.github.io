@@ -41,7 +41,7 @@ We show the superiority of our proposed model over conventional methods in terms
 
 ---
 
-We compare our model (red box) with generated samples from <a href="https://wendison.github.io/VCVTS-demo">/https://wendison.github.io/VCVTS-demo/</a> (white box).
+We compare our model (red box) with generated samples from <a href="https://wendison.github.io/VCVTS-demo/">https://wendison.github.io/VCVTS-demo/</a> (white box).
 
 Because of different experiment setting, we should use samples with different script. 
 
