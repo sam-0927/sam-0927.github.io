@@ -37,7 +37,7 @@ We show the superiority of our proposed model over conventional methods in terms
 
 <br />
 
-### Comparison
+### Comparison with other models (seen speakers)
 
 ---
 
