@@ -7,7 +7,8 @@ layout: home
 
 
 # Facetron: A Multi-speaker Face-to-Speech Model Based on Cross-Modal Latent Representations
-### Submitted to EUSIPCO 2023 (paper number: 1537)
+### Accepted to EUSIPCO 2023
+### [Paper](https://ieeexplore.ieee.org/abstract/document/10290115/)
 
 
 ## Abstract 
